@@ -1,8 +1,16 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It's the first Todo list app built on React JS 
+This app allows you to write a task, then when you finish the task you can say "Done"
+and it will show you the tasks you have completed and those you have left.
 
-Currently, two official plugins are available:
+the tools made this is 
+## React js
+## and use hooks of react js like
+     ** UseMemo
+     ** UseReducer
+     **UseRef
+     **UseState
+     
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
