@@ -11,6 +11,9 @@ the tools made this is
      ** UseReducer
      **UseRef
      **UseState
+## to run the project
+    ** first iinstall node
+    ** to run npm run dev
      
 
 
